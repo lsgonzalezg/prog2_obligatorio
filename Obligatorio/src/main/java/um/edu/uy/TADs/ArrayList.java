@@ -1,4 +1,4 @@
 package um.edu.uy.TADs;
 
-public class LinkedList {
+public class ArrayList {
 }
